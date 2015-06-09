@@ -1,1 +1,1 @@
-
+console.error("SyntaxError: /Users/paulsaad/Github Projects/backbone-practice-2/js/app-browserify.js: Unexpected token (15:0) while parsing file: /Users/paulsaad/Github Projects/backbone-practice-2/js/app-browserify.js");
